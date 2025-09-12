@@ -124,7 +124,6 @@ export const blocks = createBlockDefinitionsFromJsonArray([
       {
         'type': 'field_variable',
         'name': 'VAR',
-        'variable': null,
       },
       {
         'type': 'input_value',
@@ -167,7 +166,6 @@ export const blocks = createBlockDefinitionsFromJsonArray([
       {
         'type': 'field_variable',
         'name': 'VAR',
-        'variable': null,
       },
       {
         'type': 'input_value',
